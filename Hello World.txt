@@ -1,3 +1,5 @@
 Print ("Hello World")
 print ("hello")kk
 print ("Hello")
+
+print("Hello my frinds")
